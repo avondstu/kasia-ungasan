@@ -1,0 +1,33 @@
+{
+    "kasiaungasan.com": {
+        "siteId": "GSkNIxiKvYYlevuGgDLDeiLzHnDFrFEf",
+        "siteSecret": "Bg3MPHL6F4GP01AqpbMNlk3pPOxeA3BoEhQ6h6PUi8HwcpNE25qi19ujp6VT1Myd",
+        "blogId": 1,
+        "compression": true,
+        "webhookToken": "ee3a5c6c66d9e853a98ffb1b28fe1f0a",
+        "home_url": "https:\/\/kasiaungasan.com",
+        "admin_url": "https:\/\/kasiaungasan.com\/wp-admin\/",
+        "hosting": "unknown",
+        "alwaysBuffer": true,
+        "isEzoicActive": false,
+        "isApoActive": false,
+        "isLateIntegrationInitRequired": false,
+        "isDlmActive": false,
+        "isWoocommerceCacheHandlerActive": false,
+        "isWoocommerceActive": false,
+        "isAeliaCurrencySwitcherActive": false,
+        "isGeoTargetingWPActive": false,
+        "dlm_downloading_url": null,
+        "dlm_download_endpoint": null,
+        "pluginVersion": "1.7.1",
+        "options_cache": {
+            "cache_handler_cache_handler": false,
+            "woocommerce_default_customer_address": false,
+            "wc_aelia_currency_switcher": {
+                "ipgeolocation_enabled": null
+            }
+        },
+        "additional_domains": []
+    },
+    "config_path": "9c22eeb060ba34a9ae775b89fc90df3c"
+}
